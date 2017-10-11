@@ -23,4 +23,6 @@ Assignment (10 pts):
 | Shanglun Li | ShanglunLi | https://shanglunli.github.io/Repo-Demo/ |
 | Chase Rosendale | theace0296 | https://theace0296.github.io/Rosendale/ |
 | Hanna Gilson | hsgilson | <https://hsgilson.github.io/Demo-470/> |
+| Daniel Jang | danjang123 | <https://danjang123.github.io/Repo-Demo/> |
+
 
